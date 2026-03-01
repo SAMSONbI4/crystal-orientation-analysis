@@ -1,6 +1,6 @@
 # config.py
 
-INPUT_IMAGE = "input.png"
+INPUT_IMAGE = "images/input.png"
 OUTPUT_DIR = "results"
 
 STEP = 16
@@ -10,5 +10,6 @@ LOW_THR_MIN = 20
 LOW_THR_MAX = 128
 HIGH_THR_MIN = 128
 HIGH_THR_MAX = 256
+
 
 INVERT_MASK = True
